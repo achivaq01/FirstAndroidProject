@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="dialog_start_again">Congratulations you guessed the number!!</string>
+    <string name="start">Play Again\n</string>
+    <string name="cancel">Exit</string>
+    <string name="save_score">Save Score\n</string>
+    <string name="cancel_score">Cancel\n</string>
+    <string name="next">Play Again\n</string>
 </resources>
